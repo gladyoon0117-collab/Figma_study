@@ -28,6 +28,13 @@
 - 말풍선 : comment. 코멘트 달고 싶은 영역 정확히 드래그해서 코멘트 달 수도 있음.
 - 우클릭+cursor chat or 단축키 / : say something. 실시간 채팅 기능. 가만히 있으면 서서히 사라짐. 또는 아무데나 클릭하면 닫힘.
 - 우클릭+show/hide UI or 단축키 command+\ or 단축키 command+[.] : 양옆 패널 없이 화면을 좀 더 크게 보고 싶을 때. 다시 되돌릴 때.
-- 단축키 command+shift+/ : 좌측 레이어 패널만 숨겨짐.
+- 단축키 command+shift+/(못찾음) : 좌측 레이어 패널만 숨겨짐.
 
-#matching layer
+# matching layer
+- select matching layers : 단축키 option+command+A. 동시다발적으로 버튼, 폰트, 도형(같은 것)의 서식 등을 수정하는 기능. 두 개 이상도 가능. 그러나 레이어 이름이 같아야 함.
+- multi-edit text : 텍스트 두 개 이상 잡은 뒤 단축키 enter 누르고 굵기 같은 거 바꾸면 내용, 굵기까지 동일하게 쌍둥이처럼 바뀜.
+- components, assets도 비슷한 기능
+
+# use as mask
+- 이미지 뒤로(back) 도형 넣은 뒤, 우측 패널 use as mask 쓰면 도형 안에 이미지 들어감.
+- 도형 안에 이미지 위치 조정하고 싶으면 command 누른 상태에서 이미지 조정
