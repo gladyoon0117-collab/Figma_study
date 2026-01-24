@@ -1,0 +1,18 @@
+# 초기 화면
+- community : 피그마 오픈 소스. icon이나 ui/ux 무료로 참고 가능하므로 학습용으로 적절.
+- figjam board : 피그마에서 제공하는 또다른 플랫폼. 간단한 ppt 같은 문서작업이나 기록, 발표 자료 만드는 목적으로 쓰임. 회의할 때도 많이 쓰임. 템플릿도 있음. board.
+- import : design file 불러오는 기능. 파일 열 게 피그마에 저장돼서 열리는 방식. 파일이 크면 클수록 여는 데 오래 걸림. (폴더 자체에서 drag&drop해도 가능)
+
+# 화면 구성
+- 그리는 목적의 tool, 좌측 layer 창, 우측 effect 창으로 구
+- file -> save as figma(피그마로 파일 저장), save to version history(지금 버전에서 히스토리 저장하고 싶을 때), show version history(그 저장한 버전 히스토리가 목록으로 보여짐, 피그마 자체적으로도 시간마다 자동저장한 기록도 볼 수 있음)
+- page : 모바일 디자인/웹 디자인 이렇게 분리할 때 씀. 무료는 3개가 최대. cover도 만들 수 있음. home에서 한눈에 썸네일로 알아볼 수 있게. cover page에 이미지 넣고 -> 우클릭 -> set as thumnail
+
+# 기초 툴 기능
+- background color : 우측 page - 컬러 설정
+- frame : 배경판. 모바일/웹 사이즈에 맞게 우측 frame에서 기기 or width, height 값 설정 가능. 어디 디바이스에 맞출지만 고민하면 됨.
+- pc 디자인 : 1920x1080
+- shift : 비율 유지. 정사각형으로만, 원래 그 비율대로...
+- radius : 도형의 round 값 or 우측 패널 도형 -> 더보기(...) -> edit object -> corner radius 설정
+- line : 펜툴 기반으로 되어있기 때문에, stroke -> position을 center/inside/outside 선택 -> weight 두께 선택 -> start point와 end point 화살표... 어떤 모양으로 할 건지 선택 가능
+- arrow : 화살표가 있는 line
