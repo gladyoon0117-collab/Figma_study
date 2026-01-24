@@ -15,4 +15,19 @@
 - shift : 비율 유지. 정사각형으로만, 원래 그 비율대로...
 - radius : 도형의 round 값 or 우측 패널 도형 -> 더보기(...) -> edit object -> corner radius 설정
 - line : 펜툴 기반으로 되어있기 때문에, stroke -> position을 center/inside/outside 선택 -> weight 두께 선택 -> start point와 end point 화살표... 어떤 모양으로 할 건지 선택 가능
-- arrow : 화살표가 있는 line
+- arrow : 화살표가 있는 line. 기획서에서 많이 쓰임.
+- 삼각형 : 시각적 그리드를 맞추기 위해 정사각형 프레임 잡혀있음. 싫으면 우클릭 -> outline stroke. 꼭짓점 늘리고 싶으면 count(못찾음) 개수 바꿈. 별도 마찬가지. 딱지나 뱃지 만들 때 유용.
+- 이미지 삽입 : 도형 tool 하단 image/video or 이미지 넣을 도형 그린 뒤 fill을 통해 바꿀 수 있음(원하는 size로 한번에 넣고 싶을 때)
+- 펜툴 : shift 누르고 그리면 직각/직선 그리는 데 유용. 숙련도 필요한 기능. 펜툴로 그린 것도 corner radius로 round 값 줄 수 있음.
+- 단축키 c/v : 화면 움직이는 거(c) 스페이스 바 누른 상태에서도 일시적으로 됨.
+- 단축키 z : 확대 모드 (클릭 동안)
+- 단축키 z+option : 축소 모드 (클릭 동안)
+- 단축키 z+드래그 : 드래그한 영역으로 확대됨. 원하는 위치 바로 확대 가능
+- 단축키 command+[+] : 확대
+- 단축키 command+[-] : 축소
+- 말풍선 : comment. 코멘트 달고 싶은 영역 정확히 드래그해서 코멘트 달 수도 있음.
+- 우클릭+cursor chat or 단축키 / : say something. 실시간 채팅 기능. 가만히 있으면 서서히 사라짐. 또는 아무데나 클릭하면 닫힘.
+- 우클릭+show/hide UI or 단축키 command+\ or 단축키 command+[.] : 양옆 패널 없이 화면을 좀 더 크게 보고 싶을 때. 다시 되돌릴 때.
+- 단축키 command+shift+/ : 좌측 레이어 패널만 숨겨짐.
+
+#matching layer
