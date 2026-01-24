@@ -1,4 +1,4 @@
-Chapter 6. 인터페이스 설계하기 - 이론
+Chapter 7. 인터페이스 설계하기 - 이론
 
 # 와이어프레임에 빠르게 아이콘 넣기 위한 iconify 플러그인
 1) community -> icon 검색 -> plugin -> iconify 플러그인 설치
