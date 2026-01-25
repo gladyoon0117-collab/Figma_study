@@ -23,5 +23,3 @@ def search_music(artist_name):
     else:
         print("API 통신 에러: 데이터를 불러올 수 없습니다.")
 search_music("xdinary heroes")
-- 고객 선호 아티스트 기반의 웰컴 뮤직 추천 API 연동 기획 가능
-- 요약 : itunes 오픈 API를 호출하여 특정 가수의 상위 3곡 정보를 파싱parsing하는 예시.
