@@ -32,7 +32,7 @@ search_music("xdinary heroes")
 : 파이썬 언어를 적을 수 있게 도와주는 도구
 1) 코드 편집기 (edit area) : 기획의 로직을 파이썬 코드로 구현하는 공간 (~를 불러와)
 2) 터미널 (terminal) : 컴퓨터에게 명력을 내릴 때(input), 코드의 실행 결과를 확인할 때(output)
-3) problems : 코드에 오타나 문법 틀렸을 때 경고를 줌
+3) problems : 코드에 오타나 문법 틀렸을 때 경고를 줌.
 4) Output : 로그 기록
 5) chat&build with agent : github copilot 같은 ai 기능. 구현하고 싶은 기능 말하면 ai가 코드 제안함.
 
