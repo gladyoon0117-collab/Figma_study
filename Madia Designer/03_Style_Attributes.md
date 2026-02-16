@@ -47,7 +47,7 @@
   - **Linear**: 선.
   - **Radial**: 원. 중심부 -> 바깥 방향. 가운데를 밝게 하고 싶을 때 많이 쓰임.
   - **Angular**: 원인데 입체적인 효과. 사용하기 까다로운 편.
-  - **Diamond: 안으로 빨려가는 효과.
+  - **Diamond**: 안으로 빨려가는 효과.
   - **Rotation Gradiant, Flip Gradiant**: 포인트 위치 뒤집거나 바꾸는 기능.
 - **Image**: 
   - `Fill`: 도형에 맞춰 꽉 채움 (기본).
@@ -63,7 +63,7 @@
 - **Position**: `Inside` / `Center` / `Outside`. 
   - *Tip: UI 디자인(컴포넌트)에서는 개발자와의 정확한 간격 계산을 위해 주로 `Inside`를 사용함.*
 - **Individual Strokes**: 프레임의 상/하/좌/우 중 원하는 면에만 테두리 적용 가능 (예: 하단 라인만 있는 Input Box 제작 시 유용).
-  - 프레임 만들기 : `Shift`+`A` or 우클릭+`Frame Selection` or `Command`+`Option`+`G`.
+  - 프레임 만들기 : `Shift` + `A` or 우클릭 + `Frame Selection` or `Command` + `Option` + `G`.
 - **Style**: 실선(Solid) 또는 점선(Dash) 설정 가능.
   - `Dash`: 점의 길이
   - `Dash Cap`: 점선 끝점의 모양
